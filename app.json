@@ -17,17 +17,17 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
+      "value": "24568413",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
+      "value": "55b365d3ba57d1b9b02dc9f37e6da23c",
       "required": true
     },
     "BOT_TOKEN": {
       "description": "A Bot's token from Botfather",
-      "value": "",
+      "value": "6874393365:AAHdKn164LvjJ9nwHaUabIlP-C5avY1NzaI",
       "required": true
     },
     "DURATION_LIMIT": {
@@ -37,17 +37,17 @@
     },
     "ASSISTANT_PREFIX": {
       "description": "Prefix for Assistant Commands.",
-      "value": ".",
+      "value": "/",
       "required": true
     },
     "MONGO_DB_URI": {
-      "description": "Mongo DB URL",
+      "description": "mongodb+srv://badnamladka73:<password>@cluster0.wtyp4ca.mongodb.net/?retryWrites=true&w=majority",
       "value": "",
       "required": true
     },
     "MUSIC_BOT_NAME": {
       "description": "A name for your Music Bot.",
-      "value": "",
+      "value": "BADNAM",
       "required": true
     },
     "SUPPORT_CHANNEL": {
@@ -62,7 +62,7 @@
     },
     "OWNER_ID": {
       "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-      "value": "",
+      "value": "5674525908",
       "required": true
     },
      "OWNER_USERNAME": {
@@ -72,7 +72,7 @@
     },
     "STRING_SESSION1": {
       "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-      "value": "",
+      "value": "BQDMM2QAGgYH0TFCgVhpbI9nLnRhniBtqjsQ5ogaMbaAMF5lvYfKGCgPw4xPxTyjh72kXYNFGgJJS0QnONNjDGaNvpLWCtTXET_BKF0as7hVRIN2y-GgEbkUyNeTyppAmll2S6nnrJVwz17bBCKyOY0nVLNlMIe7klFo-WUbJjGpgkQiUcIvb73QalA4MrcKR0gTZwiWLjOrwcxxlye6L5g_OX61G6OYZMdF32H1_lKtwxvobIEBOddPO7NDXSw3C0mf2AqyGdBRvFr37PQpSPAxTSz8yFHN5IyAFBgvJ6wDbovaGyX8BJGmxhNf6HQ0_fTd9NNHLw8cmxEdr_9ri31rNh9ACwAAAAGEl1q0AA",
       "required": true
     },
     "STRING_SESSION2": {
@@ -112,12 +112,12 @@
     },
     "LOG_GROUP_ID": {
       "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-      "value": "",
+      "value": "-1002013097798",
       "required": true
     },
     "SUDO_USERS": {
       "description": "The user id(s) of user(s) whom you would like to add as a SUDO. Multiple values shall be seperated with a space.",
-      "value": "",
+      "value": "5674525908",
       "required": true
     },
     "UPSTREAM_REPO": {
