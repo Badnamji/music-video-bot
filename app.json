@@ -41,7 +41,7 @@
       "required": true
     },
     "MONGO_DB_URI": {
-      "description": "mongodb+srv://badnamladka73:<password>@cluster0.wtyp4ca.mongodb.net/?retryWrites=true&w=majority",
+      "description": "mongodb+srv://tcznetwork2:bobysonadas@cluster0.qwqioym.mongodb.net/?retryWrites=true&w=majority",
       "value": "",
       "required": true
     },
